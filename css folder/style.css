@@ -1,0 +1,466 @@
+.parent-div {
+    width: 621px;
+    height: 452px;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .FRAME-2-2 {
+    transform: rotate(0deg);
+    position: relative;
+    width: 621px;
+    height: 452px;
+    left: 0px;
+    top: 0px;
+    opacity: 1;
+    overflow: hidden;
+    background: rgba(255, 255, 255, 1);
+  }
+  .FRAME-2-3 {
+    transform: rotate(0deg);
+    position: absolute;
+    width: 150px;
+    height: 60px;
+    left: 235px;
+    top: 196px;
+    opacity: 1;
+    overflow: hidden;
+    background: rgba(117, 147, 238, 1);
+    border-radius: 100px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+  }
+  @keyframes animation-click-Ellipse1-31-Frame2-31-Frame1-Frame2-31-Frame1-1044 {
+    from {
+      transform: rotate(0deg);
+      top: 196px;
+      left: 235px;
+      /*visibility: visible;*/
+      opacity: 1;
+      z-index: 1;
+      width: 150px;
+      height: 60px;
+      border-radius: 100px;
+      border-top-left-radius: 100px;
+      border-top-right-radius: 100px;
+      border-bottom-left-radius: 100px;
+      border-bottom-right-radius: 100px;
+    }
+    to {
+      transform: rotate(0deg);
+      top: 196px;
+      left: 236px;
+      width: 150px;
+      height: 60px;
+      /*visibility: visible;*/
+      opacity: 1;
+      z-index: 1;
+      border-radius: 100px;
+      border-top-left-radius: 100px;
+      border-top-right-radius: 100px;
+      border-bottom-left-radius: 100px;
+      border-bottom-right-radius: 100px;
+  
+      background: rgba(27, 26, 20, 1);
+  
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  }
+  .class-click-Ellipse1-31-Frame2-31-Frame1-Frame2-31-Frame1-1044 {
+    animation: animation-click-Ellipse1-31-Frame2-31-Frame1-Frame2-31-Frame1-1044
+      0.30000001192092896s ease-out 0s normal forwards;
+  }
+  @keyframes animation-click-Ellipse1-31-Frame2-31-Frame1-Ellipse1-31-Frame2-31-Frame1-1044 {
+    from {
+      transform: rotate(0deg);
+      top: 0px;
+      left: 90px;
+      /*visibility: visible;*/
+      opacity: 1;
+      z-index: 1;
+      width: 60px;
+      height: 60px;
+      border-radius: 0px;
+    }
+    to {
+      transform: rotate(0deg);
+      top: 0px;
+      left: 0px;
+      width: 60px;
+      height: 60px;
+      /*visibility: visible;*/
+      opacity: 1;
+      z-index: 1;
+      border-radius: 0px;
+  
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  }
+  .class-click-Ellipse1-31-Frame2-31-Frame1-Ellipse1-31-Frame2-31-Frame1-1044 {
+    animation: animation-click-Ellipse1-31-Frame2-31-Frame1-Ellipse1-31-Frame2-31-Frame1-1044
+      0.30000001192092896s ease-out 0s normal forwards;
+  }
+  @keyframes animation-click-Ellipse1-31-Frame2-31-Frame1-light_mode-31-Frame2-31-Frame1-1044 {
+    from {
+      transform: rotate(0deg);
+      top: 8px;
+      left: 15px;
+      /*visibility: visible;*/
+      opacity: 1;
+      z-index: 2;
+      width: 45px;
+      height: 45px;
+      border-radius: 0px;
+    }
+    to {
+      transform: rotate(0deg);
+      top: 8px;
+      left: 8px;
+      width: 45px;
+      height: 45px;
+      /*visibility: visible;*/
+      opacity: 1;
+      z-index: 3;
+      border-radius: 0px;
+  
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  }
+  .class-click-Ellipse1-31-Frame2-31-Frame1-light_mode-31-Frame2-31-Frame1-1044 {
+    animation: animation-click-Ellipse1-31-Frame2-31-Frame1-light_mode-31-Frame2-31-Frame1-1044
+      0.30000001192092896s ease-out 0s normal forwards;
+  }
+  @keyframes bgAnimation-click-Ellipse1-31-Frame2-31-Frame1-light_mode-31-Frame2-31-Frame1-1044 {
+    from {
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-color: transparent;
+    }
+    to {
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background: url("https://firebasestorage.googleapis.com/v0/b/figma-plugin-a7287.appspot.com/o/user-images%2F19-oct-2023%2Fimage9330d47b-d344-438d-bccd-f6856085a40e.png?alt=media&token=542a9eae-1463-45b2-b93f-b1e743956599");
+      background-color: transparent;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  }
+  .bgClass-click-Ellipse1-31-Frame2-31-Frame1-light_mode-31-Frame2-31-Frame1-1044 {
+    animation: bgAnimation-click-Ellipse1-31-Frame2-31-Frame1-light_mode-31-Frame2-31-Frame1-1044
+      0.30000001192092896s ease-out 0s forwards;
+  }
+  @keyframes animation-click-Ellipse1-31-Frame2-31-Frame1-brightness_2-31-Frame2-31-Frame1-1044 {
+    from {
+      transform: rotate(0deg);
+      top: 8px;
+      left: 98px;
+      /*visibility: visible;*/
+      opacity: 1;
+      z-index: 3;
+      width: 45px;
+      height: 45px;
+      border-radius: 0px;
+    }
+    to {
+      transform: rotate(0deg);
+      top: 8px;
+      left: 105px;
+      width: 45px;
+      height: 45px;
+      /*visibility: visible;*/
+      opacity: 1;
+      z-index: 2;
+      border-radius: 0px;
+  
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  }
+  .class-click-Ellipse1-31-Frame2-31-Frame1-brightness_2-31-Frame2-31-Frame1-1044 {
+    animation: animation-click-Ellipse1-31-Frame2-31-Frame1-brightness_2-31-Frame2-31-Frame1-1044
+      0.30000001192092896s ease-out 0s normal forwards;
+  }
+  @keyframes bgAnimation-click-Ellipse1-31-Frame2-31-Frame1-brightness_2-31-Frame2-31-Frame1-1044 {
+    from {
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-color: transparent;
+    }
+    to {
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background: url("https://firebasestorage.googleapis.com/v0/b/figma-plugin-a7287.appspot.com/o/user-images%2F19-oct-2023%2Fimagee21628e8-7099-42bb-b267-009decd476db.png?alt=media&token=69d0a933-5157-42fd-8ad9-8e1af916403c");
+      background-color: transparent;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  }
+  .bgClass-click-Ellipse1-31-Frame2-31-Frame1-brightness_2-31-Frame2-31-Frame1-1044 {
+    animation: bgAnimation-click-Ellipse1-31-Frame2-31-Frame1-brightness_2-31-Frame2-31-Frame1-1044
+      0.30000001192092896s ease-out 0s forwards;
+  }
+  @keyframes animation-click-Ellipse1-31-Frame2-31-Frame1-Frame1-1044 {
+    from {
+      transform: rotate(0deg);
+      top: 0px;
+      left: 0px;
+      /*visibility: visible;*/
+      opacity: 1;
+      z-index: 1;
+      width: 621px;
+      height: 452px;
+      border-radius: 0px;
+    }
+    to {
+      transform: rotate(0deg);
+      top: 0px;
+      left: 0px;
+      width: 621px;
+      height: 452px;
+      /*visibility: visible;*/
+      opacity: 1;
+      z-index: 2;
+      border-radius: 0px;
+      background: rgba(45, 46, 52, 1);
+  
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  }
+  .class-click-Ellipse1-31-Frame2-31-Frame1-Frame1-1044 {
+    animation: animation-click-Ellipse1-31-Frame2-31-Frame1-Frame1-1044
+      0.30000001192092896s ease-out 0s normal forwards;
+  }
+  @keyframes animation-click-Ellipse1-31-Frame2-31-Frame1-Frame2-31-Frame1-22 {
+    from {
+      transform: rotate(0deg);
+      top: 196px;
+      left: 236px;
+      /*visibility: visible;*/
+      opacity: 1;
+      z-index: 1;
+      width: 150px;
+      height: 60px;
+      border-radius: 100px;
+      border-top-left-radius: 100px;
+      border-top-right-radius: 100px;
+      border-bottom-left-radius: 100px;
+      border-bottom-right-radius: 100px;
+    }
+    to {
+      transform: rotate(0deg);
+      top: 196px;
+      left: 235px;
+      width: 150px;
+      height: 60px;
+      /*visibility: visible;*/
+      opacity: 1;
+      z-index: 1;
+      border-radius: 100px;
+      border-top-left-radius: 100px;
+      border-top-right-radius: 100px;
+      border-bottom-left-radius: 100px;
+      border-bottom-right-radius: 100px;
+  
+      background: rgba(117, 147, 238, 1);
+  
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  }
+  .class-click-Ellipse1-31-Frame2-31-Frame1-Frame2-31-Frame1-22 {
+    animation: animation-click-Ellipse1-31-Frame2-31-Frame1-Frame2-31-Frame1-22
+      0.30000001192092896s ease-out 0s normal forwards;
+  }
+  @keyframes animation-click-Ellipse1-31-Frame2-31-Frame1-Ellipse1-31-Frame2-31-Frame1-22 {
+    from {
+      transform: rotate(0deg);
+      top: 0px;
+      left: 0px;
+      /*visibility: visible;*/
+      opacity: 1;
+      z-index: 1;
+      width: 60px;
+      height: 60px;
+      border-radius: 0px;
+    }
+    to {
+      transform: rotate(0deg);
+      top: 0px;
+      left: 90px;
+      width: 60px;
+      height: 60px;
+      /*visibility: visible;*/
+      opacity: 1;
+      z-index: 1;
+      border-radius: 0px;
+  
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  }
+  .class-click-Ellipse1-31-Frame2-31-Frame1-Ellipse1-31-Frame2-31-Frame1-22 {
+    animation: animation-click-Ellipse1-31-Frame2-31-Frame1-Ellipse1-31-Frame2-31-Frame1-22
+      0.30000001192092896s ease-out 0s normal forwards;
+  }
+  @keyframes animation-click-Ellipse1-31-Frame2-31-Frame1-brightness_2-31-Frame2-31-Frame1-22 {
+    from {
+      transform: rotate(0deg);
+      top: 8px;
+      left: 105px;
+      /*visibility: visible;*/
+      opacity: 1;
+      z-index: 2;
+      width: 45px;
+      height: 45px;
+      border-radius: 0px;
+    }
+    to {
+      transform: rotate(0deg);
+      top: 8px;
+      left: 98px;
+      width: 45px;
+      height: 45px;
+      /*visibility: visible;*/
+      opacity: 1;
+      z-index: 3;
+      border-radius: 0px;
+  
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  }
+  .class-click-Ellipse1-31-Frame2-31-Frame1-brightness_2-31-Frame2-31-Frame1-22 {
+    animation: animation-click-Ellipse1-31-Frame2-31-Frame1-brightness_2-31-Frame2-31-Frame1-22
+      0.30000001192092896s ease-out 0s normal forwards;
+  }
+  @keyframes bgAnimation-click-Ellipse1-31-Frame2-31-Frame1-brightness_2-31-Frame2-31-Frame1-22 {
+    from {
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-color: transparent;
+    }
+    to {
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background: url("https://firebasestorage.googleapis.com/v0/b/figma-plugin-a7287.appspot.com/o/user-images%2F19-oct-2023%2Fimagefa904758-4be6-4ad0-8443-a52cdedef600.png?alt=media&token=2ecc7c20-2a29-4f14-81af-039cfde5d90f");
+      background-color: transparent;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  }
+  .bgClass-click-Ellipse1-31-Frame2-31-Frame1-brightness_2-31-Frame2-31-Frame1-22 {
+    animation: bgAnimation-click-Ellipse1-31-Frame2-31-Frame1-brightness_2-31-Frame2-31-Frame1-22
+      0.30000001192092896s ease-out 0s forwards;
+  }
+  @keyframes animation-click-Ellipse1-31-Frame2-31-Frame1-light_mode-31-Frame2-31-Frame1-22 {
+    from {
+      transform: rotate(0deg);
+      top: 8px;
+      left: 8px;
+      /*visibility: visible;*/
+      opacity: 1;
+      z-index: 3;
+      width: 45px;
+      height: 45px;
+      border-radius: 0px;
+    }
+    to {
+      transform: rotate(0deg);
+      top: 8px;
+      left: 15px;
+      width: 45px;
+      height: 45px;
+      /*visibility: visible;*/
+      opacity: 1;
+      z-index: 2;
+      border-radius: 0px;
+  
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  }
+  .class-click-Ellipse1-31-Frame2-31-Frame1-light_mode-31-Frame2-31-Frame1-22 {
+    animation: animation-click-Ellipse1-31-Frame2-31-Frame1-light_mode-31-Frame2-31-Frame1-22
+      0.30000001192092896s ease-out 0s normal forwards;
+  }
+  @keyframes bgAnimation-click-Ellipse1-31-Frame2-31-Frame1-light_mode-31-Frame2-31-Frame1-22 {
+    from {
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-color: transparent;
+    }
+    to {
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background: url("https://firebasestorage.googleapis.com/v0/b/figma-plugin-a7287.appspot.com/o/user-images%2F19-oct-2023%2Fimage7dee0dd4-495c-4bdb-b7a0-ea9e84255144.png?alt=media&token=7078a035-a206-4ff5-888d-c18b97a64369");
+      background-color: transparent;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  }
+  .bgClass-click-Ellipse1-31-Frame2-31-Frame1-light_mode-31-Frame2-31-Frame1-22 {
+    animation: bgAnimation-click-Ellipse1-31-Frame2-31-Frame1-light_mode-31-Frame2-31-Frame1-22
+      0.30000001192092896s ease-out 0s forwards;
+  }
+  @keyframes animation-click-Ellipse1-31-Frame2-31-Frame1-Frame1-22 {
+    from {
+      transform: rotate(0deg);
+      top: 0px;
+      left: 0px;
+      /*visibility: visible;*/
+      opacity: 1;
+      z-index: 2;
+      width: 621px;
+      height: 452px;
+      border-radius: 0px;
+    }
+    to {
+      transform: rotate(0deg);
+      top: 0px;
+      left: 0px;
+      width: 621px;
+      height: 452px;
+      /*visibility: visible;*/
+      opacity: 1;
+      z-index: 1;
+      border-radius: 0px;
+      background: rgba(255, 255, 255, 1);
+  
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  }
+  .class-click-Ellipse1-31-Frame2-31-Frame1-Frame1-22 {
+    animation: animation-click-Ellipse1-31-Frame2-31-Frame1-Frame1-22
+      0.30000001192092896s ease-out 0s normal forwards;
+  }
+  
